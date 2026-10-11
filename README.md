@@ -1,0 +1,2 @@
+# com.globalcomputer.resource
+this
